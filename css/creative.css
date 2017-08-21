@@ -299,11 +299,11 @@ header.masthead {
 .btn-primary {
   color: white;
   border-color: #217a3e;
-  background-color: #F05F40; }
+  background-color: #217a3e; }
   .btn-primary.focus, .btn-primary:focus {
     color: white;
     border-color: #a4270d;
-    background-color: #eb3812; }
+    background-color: #217a3e; }
   .btn-primary:hover {
     color: white;
     border-color: #e13612;
