@@ -44,6 +44,8 @@ p {
   margin-bottom: 20px;
 }
 
+
+
 .bg-primary {
   background-color: #217a3e;
 }
@@ -211,7 +213,7 @@ header.masthead .header-content .header-content-inner p {
   font-size: 16px;
   font-weight: 300;
   margin-bottom: 50px;
-  color: #2b3f32; <!-- not it--> 
+  color: #2b3f32; <!-- not it-->
 }
 
 @media (min-width: 768px) {
@@ -274,7 +276,7 @@ header.masthead .header-content .header-content-inner p {
   text-align: center;
   opacity: 0;
   color: white;
-  background: rgba(240, 95, 64, 0.9);
+  background-color: #408457;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -389,26 +391,26 @@ header.masthead .header-content .header-content-inner p {
 
 .btn-primary.focus, .btn-primary:focus {
   color: white;
-  border-color: #a4270d;
+  border-color: #408457;
   background-color: #217a3e;
 }
 
 .btn-primary:hover {
   color: white;
-  border-color: #e13612;
-  background-color: #eb3812;
+  border-color: #408457;
+  background-color: #408457;
 }
 
 .btn-primary.active, .btn-primary:active, .open>.btn-primary.dropdown-toggle {
   color: white;
-  border-color: #e13612;
-  background-color: #eb3812;
+  border-color: #408457;
+  background-color: #408457;
 }
 
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover {
   color: white;
-  border-color: #a4270d;
-  background-color: #c93110;
+  border-color: #408457;
+  background-color: #408457;
 }
 
 .btn-primary.active, .btn-primary:active, .open>.btn-primary.dropdown-toggle {
@@ -435,4 +437,9 @@ header.masthead .header-content .header-content-inner p {
 
 .btn-xl {
   padding: 15px 30px;
+}
+
+#cSharp {
+  width: 10em;
+  height: 10em;
 }

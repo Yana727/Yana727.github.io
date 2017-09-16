@@ -30,6 +30,11 @@ a {
   transition: all .2s
 }
 
+.devicon-csharp-plain{
+  height: 1000000px;
+}
+
+
 a:focus, a:hover {
   color: #217a3e
 }
@@ -391,19 +396,19 @@ header.masthead .header-content .header-content-inner p {
 .btn-primary.focus, .btn-primary:focus {
   color: #fff;
   border-color: #a4270d;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary:hover {
   color: #fff;
-  border-color: #e13612;
-  background-color: #eb3812
+  border-color: #eb3812;
+  background-color: #408457
 }
 
 .btn-primary.active, .btn-primary:active, .open>.btn-primary.dropdown-toggle {
   color: #fff;
   border-color: #e13612;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover {
@@ -824,19 +829,19 @@ header.masthead .header-content .header-content-inner p {
 .btn-primary.focus, .btn-primary:focus {
   color: #fff;
   border-color: #a4270d;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary:hover {
   color: #fff;
   border-color: #e13612;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary.active, .btn-primary:active, .open>.btn-primary.dropdown-toggle {
   color: #fff;
   border-color: #e13612;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover {
@@ -1257,19 +1262,19 @@ header.masthead .header-content .header-content-inner p {
 .btn-primary.focus, .btn-primary:focus {
   color: #fff;
   border-color: #a4270d;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary:hover {
   color: #fff;
   border-color: #e13612;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary.active, .btn-primary:active, .open>.btn-primary.dropdown-toggle {
   color: #fff;
   border-color: #e13612;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover {
@@ -1690,19 +1695,19 @@ header.masthead .header-content .header-content-inner p {
 .btn-primary.focus, .btn-primary:focus {
   color: #fff;
   border-color: #a4270d;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary:hover {
   color: #fff;
   border-color: #e13612;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary.active, .btn-primary:active, .open>.btn-primary.dropdown-toggle {
   color: #fff;
   border-color: #e13612;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover {
@@ -2123,19 +2128,19 @@ header.masthead .header-content .header-content-inner p {
 .btn-primary.focus, .btn-primary:focus {
   color: #fff;
   border-color: #a4270d;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary:hover {
   color: #fff;
   border-color: #e13612;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary.active, .btn-primary:active, .open>.btn-primary.dropdown-toggle {
   color: #fff;
   border-color: #e13612;
-  background-color: #eb3812
+  background-color: #408457
 }
 
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover {
@@ -2172,4 +2177,13 @@ header.masthead .header-content .header-content-inner p {
 
 .header-content-inner h3 {
   color: #196030;
+}
+
+
+
+.devicon-javascript-plain,
+.devicon-html5-plain,
+.devicon-nodejs-plain,
+.devicon-csharp-plain {
+  font-size: 3em;
 }
